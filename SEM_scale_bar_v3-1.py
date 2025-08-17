@@ -285,7 +285,7 @@ while True:
             file = None
             print('Process is complete. Check initial folder.')
         else:
-            print('Choose folder or an image.')
+            print('Choose folder or image.')
         window.refresh()
 
     # if user closes window or clicks Exit
@@ -293,5 +293,6 @@ while True:
         break
 
 window.close()
+
 
 
