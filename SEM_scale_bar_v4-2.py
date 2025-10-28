@@ -321,6 +321,7 @@ rect_color = 'white'
 language = 'English'
 corner = 'right'
 label_corner = 'left'
+label = ''
 
 # fix start buttons (to change their color futher)
 chosen_color = 'white'
@@ -379,7 +380,10 @@ while True:
         chosen_label_corner = event
     
     #read the label from input
-    label = values['-Label-']
+    try:
+        label = values['-Label-']
+    except:
+        pass
 
     if event == 'Process':
         if folder is not None:
@@ -404,6 +408,7 @@ while True:
         break
 
 window.close()
+
 
 
 
