@@ -248,7 +248,7 @@ def draw_bar(img, tags, lang, rect_color, corner, label, label_corner):
         
         # draw label text
         if label != '':
-            img2.text((x_label, round(10*n)),
+            img2.text((x_label, 0),
                     label,
                     fill = bar_color,
                     font = ImageFont.truetype("arial.ttf", font_size)
@@ -404,5 +404,6 @@ while True:
         break
 
 window.close()
+
 
 
