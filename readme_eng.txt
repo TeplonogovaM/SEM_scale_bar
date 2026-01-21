@@ -6,8 +6,9 @@ SEM_scale_bar processed all SEM images that it finds in the folder for
 seconds. By default, English language, a white background for scale bar,
 and right-down corner are set (just press 'Process' if you don't want to
 change these settings). The "Label" input allows you to put a label on
-the SEM image in the upper left or right corner. The processed images are
-saved to the same folder where the original RAM images are located.
+the SEM image in the upper left or right corner, and you can optionally
+add end ticks to the scale bar. The processed images are saved to the
+same folder where the original RAM images are located.
 
 SEM_scale_bar is licensed under the General Public Licenses (GPL), which
 allows all users to use, share, and modify the software freely.
