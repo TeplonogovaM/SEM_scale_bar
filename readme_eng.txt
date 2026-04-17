@@ -1,4 +1,4 @@
-Updates (v5): now, users can adjust brightness and contrast of images.
+Updates (v5-2): now, users can adjust brightness and contrast of images.
 
 SEM_scale_bar is a software for fast processing of images obtained 
 from scanning electron microscope (SEM). The software cuts an info-panel
@@ -14,8 +14,8 @@ saved to the same folder where the original SEM images are located.
 SEM_scale_bar is licensed under the General Public Licenses (GPL), which
 allows all users to use, share, and modify the software freely.
 
-The current version (v5) works with SEM images ("tif" and "png" extensions)
-obtained from Tescan, Zeiss, LEO, SM-32, and, probably, FEI (Helios) microscopes.
+The current version (v5-2) works with SEM images ("tif" and "png" extensions)
+obtained from Tescan, Zeiss, LEO, SM-32, Thermo Scietific, and, probably, FEI (Helios) microscopes.
 The result of LEO image processing must be carefully checked, errors may
 occur due to incomplete information in the metadata of the microscope of
 this brand.
