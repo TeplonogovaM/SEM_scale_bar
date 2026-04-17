@@ -15,7 +15,8 @@ SEM_scale_bar is licensed under the General Public Licenses (GPL), which
 allows all users to use, share, and modify the software freely.
 
 The current version (v5-2) works with SEM images ("tif" and "png" extensions)
-obtained from Tescan, Zeiss, LEO, SM-32, Thermo Scietific, and, probably, FEI (Helios) microscopes.
+obtained from Tescan, Zeiss, LEO, SM-32, Thermo Scientific, and, probably, 
+FEI (Helios) microscopes.
 The result of LEO image processing must be carefully checked, errors may
 occur due to incomplete information in the metadata of the microscope of
 this brand.
